@@ -1,4 +1,5 @@
 # Proyect1---Introducción-a-Python-JGC-
+
 Grupo 1 - Instalación de Python.
 Grupo 2 - Sintaxis básica.
 Grupo 3 - Estructuras de control.

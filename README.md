@@ -1,1 +1,1 @@
-# Proyect1---Introducci-n-a-Python-JGC-
+# Proyect1---Introducción-a-Python-JGC-
